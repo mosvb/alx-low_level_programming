@@ -2,13 +2,13 @@
 
 /**
 
-* main - print _putchar
+ * main - print _putchar
 
-* is written by mosab khaled
+ * is written by mosab
 
-* Return: 0
+ * Return: 0
 
-*/
+ */
 
 
 int main(void)
